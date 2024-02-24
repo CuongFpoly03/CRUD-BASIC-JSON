@@ -1,0 +1,36 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "bút mực mới55",
+      "price": "1325",
+      "imgs": "https://picsum.photos/150/100",
+      "quantity": "15"
+    },
+    {
+      "id": "2",
+      "name": "lê phú cường ",
+      "price": "6",
+      "imgs": "https://picsum.photos/150/100",
+      "quantity": "2"
+    }
+  ],
+  "user": [
+    {
+      "id": "1df8",
+      "email": "cuonglephu@gmail.com",
+      "username": "cuongle",
+      "password": "12345"
+    },
+    {
+      "id": "72f8",
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": "5213",
+      "username": "",
+      "password": ""
+    }
+  ]
+}
